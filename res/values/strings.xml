@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Simak Mobile</string>
+    <string name="hasilKRS">Hasil KRS</string>
+    <string name="action_settings">Settings</string>
+    <string name="pendaftaran">Form Pendaftaran</string>
+    <string name="nama">Nama</string>
+    <string name="nim">NIM</string>
+    <string name="email">E-Mail</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="ingat">Remember Me</string>
+    <string name="daftar">Daftar</string>
+    <string name="delete">Hapus Akun</string>
+    <string name="login">Login</string>
+    <string name="krs">Form KRS</string>
+    <string name="mopro">Mobile Programming</string>
+    <string name="gis">GIS</string>
+    <string name="metlit">Metode Penelitian</string>
+    <string name="ecom">E-Commerse</string>
+    <string name="sisop">Sistem Operasi</string>
+    <string name="sismul">Sistem Multimedia</string>
+    <string name="ai">Artificial Intelegence</string>
+    <string name="simpan">Simpan</string>
+    <string name="dot">...</string>
+    
+
+</resources>
